@@ -1,0 +1,49 @@
+
+/*Section a styles*/
+#section-a h1{
+    text-align:center;
+    font-weight: bold;
+}
+
+
+#section-a .row{
+    margin-top: 20px;
+}
+
+#section-a .card{
+    background-color:gray;
+    font-weight:bold;
+    font-family:monospace;
+    font-size:1em;
+
+}
+
+#section-a .card:hover{
+    box-shadow:3px 3px 3px 3px #0b0f12;
+
+
+}
+
+#section-a .card img{
+    width: 100%;
+    height:200px;
+}
+
+
+#section-a .card img:hover{
+   opacity:0.3;
+}
+
+/*section b styles*/
+
+#section-b{
+    background-image:url("../images/img2.png");
+    color:yellow;
+    font-family:monospace;
+    text-align:center;
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:center;
+    height:80vh;
+    padding-top:100px;
+}
