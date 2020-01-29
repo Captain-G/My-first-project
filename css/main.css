@@ -47,3 +47,37 @@
     height:80vh;
     padding-top:100px;
 }
+
+/*styling the login and signup forms*/
+
+.auth-signup{
+    padding:20px;
+    border-radius:10px;
+    box-shadow:3px 3px 3px 3px #cccccc;
+
+}
+
+
+.auth-signup img{
+    border:3px solid #3269ff;
+    width:300px;
+    height:180px;
+    border-radius:50%;
+
+
+}
+
+
+.auth-signup .content-title{
+    text-align:center;
+    font-family:"Droid Sans Mono Dotted";
+
+
+}
+
+
+.auth-signup hr{
+    padding:2px;
+    margin:0;
+
+}
